@@ -61,6 +61,7 @@
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>cobertura-maven-plugin</artifactId>
                 <configuration>
+                <maxmem>512m</maxmem>
                     <skip>true</skip>
                 </configuration>
             </plugin>
