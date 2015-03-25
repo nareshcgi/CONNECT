@@ -1,4 +1,5 @@
 <Can we change it CONNECT CONNECT>
+<No, but we can still use Pigeon mail>
 CONNECT
 =======
 
